@@ -73,7 +73,7 @@ const three = (req, res, next) => {
 
 app.get('/chain(.html)?', [one, two, three])
 
-// app.use('/')
+// app.use('/') doesnt accept regex. app.all can be used for all types of routing
 app.all('*', (req, res) => {
     res.status(404)
     if (req.accepts('html')) {
