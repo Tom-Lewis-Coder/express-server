@@ -1,2 +1,6 @@
 20220930	16:38:00	6cc90fca-6473-4612-b058-5d2aad7e66ac	TypeError: fsPromises.readFil is not a function
 20221005	13:26:40	226ef0ea-c160-4c07-9ce2-57bb72ae6484	Error: Not allowed by CORS
+20221010	13:33:32	5a272628-5370-4f5a-8760-296c899e7cbd	TypeError: path.join is not a function
+20221010	14:12:48	e4e5d7cc-a149-42d7-8647-731cf3b8144f	SyntaxError: Unexpected token } in JSON at position 32
+20221010	14:13:40	ad961702-2960-48cc-87d0-73c907fb88f7	SyntaxError: Unexpected token " in JSON at position 0
+20221010	14:14:08	bb72c355-c8fb-4535-a66b-eab549f2d424	SyntaxError: Unexpected token } in JSON at position 30
