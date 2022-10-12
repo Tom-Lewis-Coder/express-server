@@ -8,7 +8,7 @@ router.route('/')
     .put(employeesController.updateEmployee)
     .delete(employeesController.deleteEmployee)
 
-    router.route('/:id')
+router.route('/:id')
     .get(employeesController.getEmployee)
 
 module.exports = router

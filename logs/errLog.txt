@@ -1,0 +1,5 @@
+20221012	15:00:43	5b4f7a3f-833e-4dfc-b5c5-117408ca6223	TypeError: Cannot read property 'origin' of undefined
+20221012	15:16:43	7a5a806a-964c-4941-b17d-12541ec771df	TypeError: Cannot read property 'origin' of undefined
+20221012	15:19:35	b37c5900-db61-4105-84a8-2b7588a20c78	TypeError: allowedOrigins.indludes is not a function
+20221012	15:21:26	98b0e6cb-19dc-469a-8592-2ac05a56f5c6	TypeError: allowedOrigins.indludes is not a function
+20221012	15:21:41	e83194f3-8cb3-414b-a9d5-a9338a86c5fc	TypeError: allowedOrigins.indludes is not a function
