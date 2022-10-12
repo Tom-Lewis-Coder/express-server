@@ -27,7 +27,7 @@ app.use(express.urlencoded({ extended: false })) // pulls out data (from form) a
 app.use(express.json())
 
 // middleware for cookies
-app.use(cookieParser)
+app.use(cookieParser())
 
 // serve static files
 app.use('/', express.static(path.join(__dirname, '/public')))
@@ -39,7 +39,7 @@ app.use('/auth', require('./routes/auth'))
 app.use('/refresh', require('./routes/refresh'))
 app.use('/logout', require('./routes/logout'))
 
-app.use(verifyJWT) // waterfall .. everything after will need JWT
+app.use(verifyJWT) // everything after this line will need JWT
 app.use('/employees', require('./routes/api/employees'))
 
 app.all('*', (req, res) => {
