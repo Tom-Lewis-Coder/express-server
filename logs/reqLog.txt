@@ -14,3 +14,9 @@
 20221013	16:00:38	7becead0-0055-4457-8970-959afbea93a0	POST	undefined	/employees
 20221013	16:01:54	c925b420-4974-4070-87d1-5bbd250711f5	POST	undefined	/auth
 20221013	16:02:08	78025f8a-c9a6-41d2-9550-33dac28e6764	POST	undefined	/employees
+20221014	14:13:12	19c373d3-a0f6-4eea-8b90-f59cf9c762cd	POST	undefined	/register
+20221014	14:13:41	1e083e29-0b0a-45ea-8353-44c7e7832ead	POST	undefined	/register
+20221014	14:14:42	90e46c29-e214-46c6-b225-f9ae5ab1a7f2	POST	undefined	/register
+20221014	14:15:34	1c9beabf-b34d-4aea-8777-647416f0005e	POST	undefined	/register
+20221014	14:22:54	0886ee1d-2720-4c63-b685-f7e1b37bd765	POST	undefined	/register
+20221014	14:23:03	26dfa84b-9044-436d-ab83-1b2c5e079079	POST	undefined	/register
